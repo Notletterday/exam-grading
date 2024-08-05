@@ -4,3 +4,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/Notletterday/rustlings.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/Notletterday/TinyInfiniTensor.git
