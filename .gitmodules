@@ -1,0 +1,3 @@
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/Notletterday/TinyInfiniTensor.git
