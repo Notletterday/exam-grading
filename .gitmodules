@@ -1,3 +1,6 @@
 [submodule "TinyInfiniTensor"]
 	path = TinyInfiniTensor
 	url = https://github.com/Notletterday/TinyInfiniTensor.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:Notletterday/learning-lm-rs.git
